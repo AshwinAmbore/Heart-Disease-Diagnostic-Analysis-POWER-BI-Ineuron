@@ -1,0 +1,304 @@
+age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,num,age_group
+63,Male,Typical Angina,145,233,Diabetes,Left Ventricular Hypertropthy,150,No,2.3,Downslopping,Normal Coronary Arteries,Fixed Defect,Normal,60's
+67,Male,Asymptomatic,160,286,Normal Blood Sugar Level,Left Ventricular Hypertropthy,108,Yes,1.5,Flat,Abnormality Level 3,Normal Hemoglobin,Heart Disease,60's
+67,Male,Asymptomatic,120,229,Normal Blood Sugar Level,Left Ventricular Hypertropthy,129,Yes,2.6,Flat,Abnormality Level 2,Reversibile Defect,Heart Disease,60's
+37,Male,Non-Anginal Pain,130,250,Normal Blood Sugar Level,Normal ,187,No,3.5,Downslopping,Normal Coronary Arteries,Normal Hemoglobin,Normal,30's
+41,Female,Atypical Angina,130,204,Normal Blood Sugar Level,Left Ventricular Hypertropthy,172,No,1.4,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,40's
+56,Male,Atypical Angina,120,236,Normal Blood Sugar Level,Normal ,178,No,0.8,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,50's
+62,Female,Asymptomatic,140,268,Normal Blood Sugar Level,Left Ventricular Hypertropthy,160,No,3.6,Downslopping,Abnormality Level 2,Normal Hemoglobin,Heart Disease,60's
+57,Female,Asymptomatic,120,354,Normal Blood Sugar Level,Normal ,163,Yes,0.6,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,50's
+63,Male,Asymptomatic,130,254,Normal Blood Sugar Level,Left Ventricular Hypertropthy,147,No,1.4,Flat,Abnormality Level 1,Reversibile Defect,Heart Disease,60's
+53,Male,Asymptomatic,140,203,Diabetes,Left Ventricular Hypertropthy,155,Yes,3.1,Downslopping,Normal Coronary Arteries,Reversibile Defect,Heart Disease,50's
+57,Male,Asymptomatic,140,192,Normal Blood Sugar Level,Normal ,148,No,0.4,Flat,Normal Coronary Arteries,Fixed Defect,Normal,50's
+56,Female,Atypical Angina,140,294,Normal Blood Sugar Level,Left Ventricular Hypertropthy,153,No,1.3,Flat,Normal Coronary Arteries,Normal Hemoglobin,Normal,50's
+56,Male,Non-Anginal Pain,130,256,Diabetes,Left Ventricular Hypertropthy,142,Yes,0.6,Flat,Abnormality Level 1,Fixed Defect,Heart Disease,50's
+44,Male,Atypical Angina,120,263,Normal Blood Sugar Level,Normal ,173,No,0.0,Upsloping,Normal Coronary Arteries,Reversibile Defect,Normal,40's
+52,Male,Non-Anginal Pain,172,199,Diabetes,Normal ,162,No,0.5,Upsloping,Normal Coronary Arteries,Reversibile Defect,Normal,50's
+57,Male,Non-Anginal Pain,150,168,Normal Blood Sugar Level,Normal ,174,No,1.6,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,50's
+48,Male,Atypical Angina,110,229,Normal Blood Sugar Level,Normal ,168,No,1.0,Downslopping,Normal Coronary Arteries,Reversibile Defect,Heart Disease,40's
+54,Male,Asymptomatic,140,239,Normal Blood Sugar Level,Normal ,160,No,1.2,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,50's
+48,Female,Non-Anginal Pain,130,275,Normal Blood Sugar Level,Normal ,139,No,0.2,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,40's
+49,Male,Atypical Angina,130,266,Normal Blood Sugar Level,Normal ,171,No,0.6,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,40's
+64,Male,Typical Angina,110,211,Normal Blood Sugar Level,Left Ventricular Hypertropthy,144,Yes,1.8,Flat,Normal Coronary Arteries,Normal Hemoglobin,Normal,60's
+58,Female,Typical Angina,150,283,Diabetes,Left Ventricular Hypertropthy,162,No,1.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,50's
+58,Male,Atypical Angina,120,284,Normal Blood Sugar Level,Left Ventricular Hypertropthy,160,No,1.8,Flat,Normal Coronary Arteries,Normal Hemoglobin,Heart Disease,50's
+58,Male,Non-Anginal Pain,132,224,Normal Blood Sugar Level,Left Ventricular Hypertropthy,173,No,3.2,Upsloping,Abnormality Level 2,Reversibile Defect,Heart Disease,50's
+60,Male,Asymptomatic,130,206,Normal Blood Sugar Level,Left Ventricular Hypertropthy,132,Yes,2.4,Flat,Abnormality Level 2,Reversibile Defect,Heart Disease,60's
+50,Female,Non-Anginal Pain,120,219,Normal Blood Sugar Level,Normal ,158,No,1.6,Flat,Normal Coronary Arteries,Normal Hemoglobin,Normal,50's
+58,Female,Non-Anginal Pain,120,340,Normal Blood Sugar Level,Normal ,172,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,50's
+66,Female,Typical Angina,150,226,Normal Blood Sugar Level,Normal ,114,No,2.6,Downslopping,Normal Coronary Arteries,Normal Hemoglobin,Normal,60's
+43,Male,Asymptomatic,150,247,Normal Blood Sugar Level,Normal ,171,No,1.5,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,40's
+40,Male,Asymptomatic,110,167,Normal Blood Sugar Level,Left Ventricular Hypertropthy,114,Yes,2.0,Flat,Normal Coronary Arteries,Reversibile Defect,Heart Disease,40's
+69,Female,Typical Angina,140,239,Normal Blood Sugar Level,Normal ,151,No,1.8,Upsloping,Abnormality Level 2,Normal Hemoglobin,Normal,60's
+60,Male,Asymptomatic,117,230,Diabetes,Normal ,160,Yes,1.4,Upsloping,Abnormality Level 2,Reversibile Defect,Heart Disease,60's
+64,Male,Non-Anginal Pain,140,335,Normal Blood Sugar Level,Normal ,158,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Heart Disease,60's
+59,Male,Asymptomatic,135,234,Normal Blood Sugar Level,Normal ,161,No,0.5,Flat,Normal Coronary Arteries,Reversibile Defect,Normal,50's
+44,Male,Non-Anginal Pain,130,233,Normal Blood Sugar Level,Normal ,179,Yes,0.4,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,40's
+42,Male,Asymptomatic,140,226,Normal Blood Sugar Level,Normal ,178,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,40's
+43,Male,Asymptomatic,120,177,Normal Blood Sugar Level,Left Ventricular Hypertropthy,120,Yes,2.5,Flat,Normal Coronary Arteries,Reversibile Defect,Heart Disease,40's
+57,Male,Asymptomatic,150,276,Normal Blood Sugar Level,Left Ventricular Hypertropthy,112,Yes,0.6,Flat,Abnormality Level 1,Fixed Defect,Heart Disease,50's
+55,Male,Asymptomatic,132,353,Normal Blood Sugar Level,Normal ,132,Yes,1.2,Flat,Abnormality Level 1,Reversibile Defect,Heart Disease,50's
+61,Male,Non-Anginal Pain,150,243,Diabetes,Normal ,137,Yes,1.0,Flat,Normal Coronary Arteries,Normal Hemoglobin,Normal,60's
+65,Female,Asymptomatic,150,225,Normal Blood Sugar Level,Left Ventricular Hypertropthy,114,No,1.0,Flat,Abnormality Level 3,Reversibile Defect,Heart Disease,60's
+40,Male,Typical Angina,140,199,Normal Blood Sugar Level,Normal ,178,Yes,1.4,Upsloping,Normal Coronary Arteries,Reversibile Defect,Normal,40's
+71,Female,Atypical Angina,160,302,Normal Blood Sugar Level,Normal ,162,No,0.4,Upsloping,Abnormality Level 2,Normal Hemoglobin,Normal,70's
+59,Male,Non-Anginal Pain,150,212,Diabetes,Normal ,157,No,1.6,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,50's
+61,Female,Asymptomatic,130,330,Normal Blood Sugar Level,Left Ventricular Hypertropthy,169,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Heart Disease,60's
+58,Male,Non-Anginal Pain,112,230,Normal Blood Sugar Level,Left Ventricular Hypertropthy,165,No,2.5,Flat,Abnormality Level 1,Reversibile Defect,Heart Disease,50's
+51,Male,Non-Anginal Pain,110,175,Normal Blood Sugar Level,Normal ,123,No,0.6,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,50's
+50,Male,Asymptomatic,150,243,Normal Blood Sugar Level,Left Ventricular Hypertropthy,128,No,2.6,Flat,Normal Coronary Arteries,Reversibile Defect,Heart Disease,50's
+65,Female,Non-Anginal Pain,140,417,Diabetes,Left Ventricular Hypertropthy,157,No,0.8,Upsloping,Abnormality Level 1,Normal Hemoglobin,Normal,60's
+53,Male,Non-Anginal Pain,130,197,Diabetes,Left Ventricular Hypertropthy,152,No,1.2,Downslopping,Normal Coronary Arteries,Normal Hemoglobin,Normal,50's
+41,Female,Atypical Angina,105,198,Normal Blood Sugar Level,Normal ,168,No,0.0,Upsloping,Abnormality Level 1,Normal Hemoglobin,Normal,40's
+65,Male,Asymptomatic,120,177,Normal Blood Sugar Level,Normal ,140,No,0.4,Upsloping,Normal Coronary Arteries,Reversibile Defect,Normal,60's
+44,Male,Asymptomatic,112,290,Normal Blood Sugar Level,Left Ventricular Hypertropthy,153,No,0.0,Upsloping,Abnormality Level 1,Normal Hemoglobin,Heart Disease,40's
+44,Male,Atypical Angina,130,219,Normal Blood Sugar Level,Left Ventricular Hypertropthy,188,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,40's
+60,Male,Asymptomatic,130,253,Normal Blood Sugar Level,Normal ,144,Yes,1.4,Upsloping,Abnormality Level 1,Reversibile Defect,Heart Disease,60's
+54,Male,Asymptomatic,124,266,Normal Blood Sugar Level,Left Ventricular Hypertropthy,109,Yes,2.2,Flat,Abnormality Level 1,Reversibile Defect,Heart Disease,50's
+50,Male,Non-Anginal Pain,140,233,Normal Blood Sugar Level,Normal ,163,No,0.6,Flat,Abnormality Level 1,Reversibile Defect,Heart Disease,50's
+41,Male,Asymptomatic,110,172,Normal Blood Sugar Level,Left Ventricular Hypertropthy,158,No,0.0,Upsloping,Normal Coronary Arteries,Reversibile Defect,Heart Disease,40's
+54,Male,Non-Anginal Pain,125,273,Normal Blood Sugar Level,Left Ventricular Hypertropthy,152,No,0.5,Downslopping,Abnormality Level 1,Normal Hemoglobin,Normal,50's
+51,Male,Typical Angina,125,213,Normal Blood Sugar Level,Left Ventricular Hypertropthy,125,Yes,1.4,Upsloping,Abnormality Level 1,Normal Hemoglobin,Normal,50's
+51,Female,Asymptomatic,130,305,Normal Blood Sugar Level,Normal ,142,Yes,1.2,Flat,Normal Coronary Arteries,Reversibile Defect,Heart Disease,50's
+46,Female,Non-Anginal Pain,142,177,Normal Blood Sugar Level,Left Ventricular Hypertropthy,160,Yes,1.4,Downslopping,Normal Coronary Arteries,Normal Hemoglobin,Normal,40's
+58,Male,Asymptomatic,128,216,Normal Blood Sugar Level,Left Ventricular Hypertropthy,131,Yes,2.2,Flat,Abnormality Level 3,Reversibile Defect,Heart Disease,50's
+54,Female,Non-Anginal Pain,135,304,Diabetes,Normal ,170,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,50's
+54,Male,Asymptomatic,120,188,Normal Blood Sugar Level,Normal ,113,No,1.4,Flat,Abnormality Level 1,Reversibile Defect,Heart Disease,50's
+60,Male,Asymptomatic,145,282,Normal Blood Sugar Level,Left Ventricular Hypertropthy,142,Yes,2.8,Flat,Abnormality Level 2,Reversibile Defect,Heart Disease,60's
+60,Male,Non-Anginal Pain,140,185,Normal Blood Sugar Level,Left Ventricular Hypertropthy,155,No,3.0,Flat,Normal Coronary Arteries,Normal Hemoglobin,Heart Disease,60's
+54,Male,Non-Anginal Pain,150,232,Normal Blood Sugar Level,Left Ventricular Hypertropthy,165,No,1.6,Upsloping,Normal Coronary Arteries,Reversibile Defect,Normal,50's
+59,Male,Asymptomatic,170,326,Normal Blood Sugar Level,Left Ventricular Hypertropthy,140,Yes,3.4,Downslopping,Normal Coronary Arteries,Reversibile Defect,Heart Disease,50's
+46,Male,Non-Anginal Pain,150,231,Normal Blood Sugar Level,Normal ,147,No,3.6,Flat,Normal Coronary Arteries,Normal Hemoglobin,Heart Disease,40's
+65,Female,Non-Anginal Pain,155,269,Normal Blood Sugar Level,Normal ,148,No,0.8,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,60's
+67,Male,Asymptomatic,125,254,Diabetes,Normal ,163,No,0.2,Flat,Abnormality Level 2,Reversibile Defect,Heart Disease,60's
+62,Male,Asymptomatic,120,267,Normal Blood Sugar Level,Normal ,99,Yes,1.8,Flat,Abnormality Level 2,Reversibile Defect,Heart Disease,60's
+65,Male,Asymptomatic,110,248,Normal Blood Sugar Level,Left Ventricular Hypertropthy,158,No,0.6,Upsloping,Abnormality Level 2,Fixed Defect,Heart Disease,60's
+44,Male,Asymptomatic,110,197,Normal Blood Sugar Level,Left Ventricular Hypertropthy,177,No,0.0,Upsloping,Abnormality Level 1,Normal Hemoglobin,Heart Disease,40's
+65,Female,Non-Anginal Pain,160,360,Normal Blood Sugar Level,Left Ventricular Hypertropthy,151,No,0.8,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,60's
+60,Male,Asymptomatic,125,258,Normal Blood Sugar Level,Left Ventricular Hypertropthy,141,Yes,2.8,Flat,Abnormality Level 1,Reversibile Defect,Heart Disease,60's
+51,Female,Non-Anginal Pain,140,308,Normal Blood Sugar Level,Left Ventricular Hypertropthy,142,No,1.5,Upsloping,Abnormality Level 1,Normal Hemoglobin,Normal,50's
+48,Male,Atypical Angina,130,245,Normal Blood Sugar Level,Left Ventricular Hypertropthy,180,No,0.2,Flat,Normal Coronary Arteries,Normal Hemoglobin,Normal,40's
+58,Male,Asymptomatic,150,270,Normal Blood Sugar Level,Left Ventricular Hypertropthy,111,Yes,0.8,Upsloping,Normal Coronary Arteries,Reversibile Defect,Heart Disease,50's
+45,Male,Asymptomatic,104,208,Normal Blood Sugar Level,Left Ventricular Hypertropthy,148,Yes,3.0,Flat,Normal Coronary Arteries,Normal Hemoglobin,Normal,40's
+53,Female,Asymptomatic,130,264,Normal Blood Sugar Level,Left Ventricular Hypertropthy,143,No,0.4,Flat,Normal Coronary Arteries,Normal Hemoglobin,Normal,50's
+39,Male,Non-Anginal Pain,140,321,Normal Blood Sugar Level,Left Ventricular Hypertropthy,182,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,30's
+68,Male,Non-Anginal Pain,180,274,Diabetes,Left Ventricular Hypertropthy,150,Yes,1.6,Flat,Normal Coronary Arteries,Reversibile Defect,Heart Disease,60's
+52,Male,Atypical Angina,120,325,Normal Blood Sugar Level,Normal ,172,No,0.2,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,50's
+44,Male,Non-Anginal Pain,140,235,Normal Blood Sugar Level,Left Ventricular Hypertropthy,180,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,40's
+47,Male,Non-Anginal Pain,138,257,Normal Blood Sugar Level,Left Ventricular Hypertropthy,156,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,40's
+53,Female,Non-Anginal Pain,128,216,Normal Blood Sugar Level,Left Ventricular Hypertropthy,115,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,50's
+53,Female,Asymptomatic,138,234,Normal Blood Sugar Level,Left Ventricular Hypertropthy,160,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,50's
+51,Female,Non-Anginal Pain,130,256,Normal Blood Sugar Level,Left Ventricular Hypertropthy,149,No,0.5,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,50's
+66,Male,Asymptomatic,120,302,Normal Blood Sugar Level,Left Ventricular Hypertropthy,151,No,0.4,Flat,Normal Coronary Arteries,Normal Hemoglobin,Normal,60's
+62,Female,Asymptomatic,160,164,Normal Blood Sugar Level,Left Ventricular Hypertropthy,145,No,6.2,Downslopping,Abnormality Level 3,Reversibile Defect,Heart Disease,60's
+62,Male,Non-Anginal Pain,130,231,Normal Blood Sugar Level,Normal ,146,No,1.8,Flat,Abnormality Level 3,Reversibile Defect,Normal,60's
+44,Female,Non-Anginal Pain,108,141,Normal Blood Sugar Level,Normal ,175,No,0.6,Flat,Normal Coronary Arteries,Normal Hemoglobin,Normal,40's
+63,Female,Non-Anginal Pain,135,252,Normal Blood Sugar Level,Left Ventricular Hypertropthy,172,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,60's
+52,Male,Asymptomatic,128,255,Normal Blood Sugar Level,Normal ,161,Yes,0.0,Upsloping,Abnormality Level 1,Reversibile Defect,Heart Disease,50's
+59,Male,Asymptomatic,110,239,Normal Blood Sugar Level,Left Ventricular Hypertropthy,142,Yes,1.2,Flat,Abnormality Level 1,Reversibile Defect,Heart Disease,50's
+60,Female,Asymptomatic,150,258,Normal Blood Sugar Level,Left Ventricular Hypertropthy,157,No,2.6,Flat,Abnormality Level 2,Reversibile Defect,Heart Disease,60's
+52,Male,Atypical Angina,134,201,Normal Blood Sugar Level,Normal ,158,No,0.8,Upsloping,Abnormality Level 1,Normal Hemoglobin,Normal,50's
+48,Male,Asymptomatic,122,222,Normal Blood Sugar Level,Left Ventricular Hypertropthy,186,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,40's
+45,Male,Asymptomatic,115,260,Normal Blood Sugar Level,Left Ventricular Hypertropthy,185,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,40's
+34,Male,Typical Angina,118,182,Normal Blood Sugar Level,Left Ventricular Hypertropthy,174,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,30's
+57,Female,Asymptomatic,128,303,Normal Blood Sugar Level,Left Ventricular Hypertropthy,159,No,0.0,Upsloping,Abnormality Level 1,Normal Hemoglobin,Normal,50's
+71,Female,Non-Anginal Pain,110,265,Diabetes,Left Ventricular Hypertropthy,130,No,0.0,Upsloping,Abnormality Level 1,Normal Hemoglobin,Normal,70's
+49,Male,Non-Anginal Pain,120,188,Normal Blood Sugar Level,Normal ,139,No,2.0,Flat,Abnormality Level 3,Reversibile Defect,Heart Disease,40's
+54,Male,Atypical Angina,108,309,Normal Blood Sugar Level,Normal ,156,No,0.0,Upsloping,Normal Coronary Arteries,Reversibile Defect,Normal,50's
+59,Male,Asymptomatic,140,177,Normal Blood Sugar Level,Normal ,162,Yes,0.0,Upsloping,Abnormality Level 1,Reversibile Defect,Heart Disease,50's
+57,Male,Non-Anginal Pain,128,229,Normal Blood Sugar Level,Left Ventricular Hypertropthy,150,No,0.4,Flat,Abnormality Level 1,Reversibile Defect,Heart Disease,50's
+61,Male,Asymptomatic,120,260,Normal Blood Sugar Level,Normal ,140,Yes,3.6,Flat,Abnormality Level 1,Reversibile Defect,Heart Disease,60's
+39,Male,Asymptomatic,118,219,Normal Blood Sugar Level,Normal ,140,No,1.2,Flat,Normal Coronary Arteries,Reversibile Defect,Heart Disease,30's
+61,Female,Asymptomatic,145,307,Normal Blood Sugar Level,Left Ventricular Hypertropthy,146,Yes,1.0,Flat,Normal Coronary Arteries,Reversibile Defect,Heart Disease,60's
+56,Male,Asymptomatic,125,249,Diabetes,Left Ventricular Hypertropthy,144,Yes,1.2,Flat,Abnormality Level 1,Normal Hemoglobin,Heart Disease,50's
+52,Male,Typical Angina,118,186,Normal Blood Sugar Level,Left Ventricular Hypertropthy,190,No,0.0,Flat,Normal Coronary Arteries,Fixed Defect,Normal,50's
+43,Female,Asymptomatic,132,341,Diabetes,Left Ventricular Hypertropthy,136,Yes,3.0,Flat,Normal Coronary Arteries,Reversibile Defect,Heart Disease,40's
+62,Female,Non-Anginal Pain,130,263,Normal Blood Sugar Level,Normal ,97,No,1.2,Flat,Abnormality Level 1,Reversibile Defect,Heart Disease,60's
+41,Male,Atypical Angina,135,203,Normal Blood Sugar Level,Normal ,132,No,0.0,Flat,Normal Coronary Arteries,Fixed Defect,Normal,40's
+58,Male,Non-Anginal Pain,140,211,Diabetes,Left Ventricular Hypertropthy,165,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,50's
+35,Female,Asymptomatic,138,183,Normal Blood Sugar Level,Normal ,182,No,1.4,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,30's
+63,Male,Asymptomatic,130,330,Diabetes,Left Ventricular Hypertropthy,132,Yes,1.8,Upsloping,Abnormality Level 3,Reversibile Defect,Heart Disease,60's
+65,Male,Asymptomatic,135,254,Normal Blood Sugar Level,Left Ventricular Hypertropthy,127,No,2.8,Flat,Abnormality Level 1,Reversibile Defect,Heart Disease,60's
+48,Male,Asymptomatic,130,256,Diabetes,Left Ventricular Hypertropthy,150,Yes,0.0,Upsloping,Abnormality Level 2,Reversibile Defect,Heart Disease,40's
+63,Female,Asymptomatic,150,407,Normal Blood Sugar Level,Left Ventricular Hypertropthy,154,No,4.0,Flat,Abnormality Level 3,Reversibile Defect,Heart Disease,60's
+51,Male,Non-Anginal Pain,100,222,Normal Blood Sugar Level,Normal ,143,Yes,1.2,Flat,Normal Coronary Arteries,Normal Hemoglobin,Normal,50's
+55,Male,Asymptomatic,140,217,Normal Blood Sugar Level,Normal ,111,Yes,5.6,Downslopping,Normal Coronary Arteries,Reversibile Defect,Heart Disease,50's
+65,Male,Typical Angina,138,282,Diabetes,Left Ventricular Hypertropthy,174,No,1.4,Flat,Abnormality Level 1,Normal Hemoglobin,Heart Disease,60's
+45,Female,Atypical Angina,130,234,Normal Blood Sugar Level,Left Ventricular Hypertropthy,175,No,0.6,Flat,Normal Coronary Arteries,Normal Hemoglobin,Normal,40's
+56,Female,Asymptomatic,200,288,Diabetes,Left Ventricular Hypertropthy,133,Yes,4.0,Downslopping,Abnormality Level 2,Reversibile Defect,Heart Disease,50's
+54,Male,Asymptomatic,110,239,Normal Blood Sugar Level,Normal ,126,Yes,2.8,Flat,Abnormality Level 1,Reversibile Defect,Heart Disease,50's
+44,Male,Atypical Angina,120,220,Normal Blood Sugar Level,Normal ,170,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,40's
+62,Female,Asymptomatic,124,209,Normal Blood Sugar Level,Normal ,163,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,60's
+54,Male,Non-Anginal Pain,120,258,Normal Blood Sugar Level,Left Ventricular Hypertropthy,147,No,0.4,Flat,Normal Coronary Arteries,Reversibile Defect,Normal,50's
+51,Male,Non-Anginal Pain,94,227,Normal Blood Sugar Level,Normal ,154,Yes,0.0,Upsloping,Abnormality Level 1,Reversibile Defect,Normal,50's
+29,Male,Atypical Angina,130,204,Normal Blood Sugar Level,Left Ventricular Hypertropthy,202,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,20's
+51,Male,Asymptomatic,140,261,Normal Blood Sugar Level,Left Ventricular Hypertropthy,186,Yes,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,50's
+43,Female,Non-Anginal Pain,122,213,Normal Blood Sugar Level,Normal ,165,No,0.2,Flat,Normal Coronary Arteries,Normal Hemoglobin,Normal,40's
+55,Female,Atypical Angina,135,250,Normal Blood Sugar Level,Left Ventricular Hypertropthy,161,No,1.4,Flat,Normal Coronary Arteries,Normal Hemoglobin,Normal,50's
+70,Male,Asymptomatic,145,174,Normal Blood Sugar Level,Normal ,125,Yes,2.6,Downslopping,Normal Coronary Arteries,Reversibile Defect,Heart Disease,70's
+62,Male,Atypical Angina,120,281,Normal Blood Sugar Level,Left Ventricular Hypertropthy,103,No,1.4,Flat,Abnormality Level 1,Reversibile Defect,Heart Disease,60's
+35,Male,Asymptomatic,120,198,Normal Blood Sugar Level,Normal ,130,Yes,1.6,Flat,Normal Coronary Arteries,Reversibile Defect,Heart Disease,30's
+51,Male,Non-Anginal Pain,125,245,Diabetes,Left Ventricular Hypertropthy,166,No,2.4,Flat,Normal Coronary Arteries,Normal Hemoglobin,Normal,50's
+59,Male,Atypical Angina,140,221,Normal Blood Sugar Level,Normal ,164,Yes,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,50's
+59,Male,Typical Angina,170,288,Normal Blood Sugar Level,Left Ventricular Hypertropthy,159,No,0.2,Flat,Normal Coronary Arteries,Reversibile Defect,Heart Disease,50's
+52,Male,Atypical Angina,128,205,Diabetes,Normal ,184,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,50's
+64,Male,Non-Anginal Pain,125,309,Normal Blood Sugar Level,Normal ,131,Yes,1.8,Flat,Normal Coronary Arteries,Reversibile Defect,Heart Disease,60's
+58,Male,Non-Anginal Pain,105,240,Normal Blood Sugar Level,Left Ventricular Hypertropthy,154,Yes,0.6,Flat,Normal Coronary Arteries,Reversibile Defect,Normal,50's
+47,Male,Non-Anginal Pain,108,243,Normal Blood Sugar Level,Normal ,152,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Heart Disease,40's
+57,Male,Asymptomatic,165,289,Diabetes,Left Ventricular Hypertropthy,124,No,1.0,Flat,Abnormality Level 3,Reversibile Defect,Heart Disease,50's
+41,Male,Non-Anginal Pain,112,250,Normal Blood Sugar Level,Normal ,179,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,40's
+45,Male,Atypical Angina,128,308,Normal Blood Sugar Level,Left Ventricular Hypertropthy,170,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,40's
+60,Female,Non-Anginal Pain,102,318,Normal Blood Sugar Level,Normal ,160,No,0.0,Upsloping,Abnormality Level 1,Normal Hemoglobin,Normal,60's
+52,Male,Typical Angina,152,298,Diabetes,Normal ,178,No,1.2,Flat,Normal Coronary Arteries,Reversibile Defect,Normal,50's
+42,Female,Asymptomatic,102,265,Normal Blood Sugar Level,Left Ventricular Hypertropthy,122,No,0.6,Flat,Normal Coronary Arteries,Normal Hemoglobin,Normal,40's
+67,Female,Non-Anginal Pain,115,564,Normal Blood Sugar Level,Left Ventricular Hypertropthy,160,No,1.6,Flat,Normal Coronary Arteries,Reversibile Defect,Normal,60's
+55,Male,Asymptomatic,160,289,Normal Blood Sugar Level,Left Ventricular Hypertropthy,145,Yes,0.8,Flat,Abnormality Level 1,Reversibile Defect,Heart Disease,50's
+64,Male,Asymptomatic,120,246,Normal Blood Sugar Level,Left Ventricular Hypertropthy,96,Yes,2.2,Downslopping,Abnormality Level 1,Normal Hemoglobin,Heart Disease,60's
+70,Male,Asymptomatic,130,322,Normal Blood Sugar Level,Left Ventricular Hypertropthy,109,No,2.4,Flat,Abnormality Level 3,Normal Hemoglobin,Heart Disease,70's
+51,Male,Asymptomatic,140,299,Normal Blood Sugar Level,Normal ,173,Yes,1.6,Upsloping,Normal Coronary Arteries,Reversibile Defect,Heart Disease,50's
+58,Male,Asymptomatic,125,300,Normal Blood Sugar Level,Left Ventricular Hypertropthy,171,No,0.0,Upsloping,Abnormality Level 2,Reversibile Defect,Heart Disease,50's
+60,Male,Asymptomatic,140,293,Normal Blood Sugar Level,Left Ventricular Hypertropthy,170,No,1.2,Flat,Abnormality Level 2,Reversibile Defect,Heart Disease,60's
+68,Male,Non-Anginal Pain,118,277,Normal Blood Sugar Level,Normal ,151,No,1.0,Upsloping,Abnormality Level 1,Reversibile Defect,Normal,60's
+46,Male,Atypical Angina,101,197,Diabetes,Normal ,156,No,0.0,Upsloping,Normal Coronary Arteries,Reversibile Defect,Normal,40's
+77,Male,Asymptomatic,125,304,Normal Blood Sugar Level,Left Ventricular Hypertropthy,162,Yes,0.0,Upsloping,Abnormality Level 3,Normal Hemoglobin,Heart Disease,70's
+54,Female,Non-Anginal Pain,110,214,Normal Blood Sugar Level,Normal ,158,No,1.6,Flat,Normal Coronary Arteries,Normal Hemoglobin,Normal,50's
+58,Female,Asymptomatic,100,248,Normal Blood Sugar Level,Left Ventricular Hypertropthy,122,No,1.0,Flat,Normal Coronary Arteries,Normal Hemoglobin,Normal,50's
+48,Male,Non-Anginal Pain,124,255,Diabetes,Normal ,175,No,0.0,Upsloping,Abnormality Level 2,Normal Hemoglobin,Normal,40's
+57,Male,Asymptomatic,132,207,Normal Blood Sugar Level,Normal ,168,Yes,0.0,Upsloping,Normal Coronary Arteries,Reversibile Defect,Normal,50's
+52,Male,Non-Anginal Pain,138,223,Normal Blood Sugar Level,Normal ,169,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,50's
+54,Female,Atypical Angina,132,288,Diabetes,Left Ventricular Hypertropthy,159,Yes,0.0,Upsloping,Abnormality Level 1,Normal Hemoglobin,Normal,50's
+35,Male,Asymptomatic,126,282,Normal Blood Sugar Level,Left Ventricular Hypertropthy,156,Yes,0.0,Upsloping,Normal Coronary Arteries,Reversibile Defect,Heart Disease,30's
+45,Female,Atypical Angina,112,160,Normal Blood Sugar Level,Normal ,138,No,0.0,Flat,Normal Coronary Arteries,Normal Hemoglobin,Normal,40's
+70,Male,Non-Anginal Pain,160,269,Normal Blood Sugar Level,Normal ,112,Yes,2.9,Flat,Abnormality Level 1,Reversibile Defect,Heart Disease,70's
+53,Male,Asymptomatic,142,226,Normal Blood Sugar Level,Left Ventricular Hypertropthy,111,Yes,0.0,Upsloping,Normal Coronary Arteries,Reversibile Defect,Normal,50's
+59,Female,Asymptomatic,174,249,Normal Blood Sugar Level,Normal ,143,Yes,0.0,Flat,Normal Coronary Arteries,Normal Hemoglobin,Heart Disease,50's
+62,Female,Asymptomatic,140,394,Normal Blood Sugar Level,Left Ventricular Hypertropthy,157,No,1.2,Flat,Normal Coronary Arteries,Normal Hemoglobin,Normal,60's
+64,Male,Asymptomatic,145,212,Normal Blood Sugar Level,Left Ventricular Hypertropthy,132,No,2.0,Flat,Abnormality Level 2,Fixed Defect,Heart Disease,60's
+57,Male,Asymptomatic,152,274,Normal Blood Sugar Level,Normal ,88,Yes,1.2,Flat,Abnormality Level 1,Reversibile Defect,Heart Disease,50's
+52,Male,Asymptomatic,108,233,Diabetes,Normal ,147,No,0.1,Upsloping,Abnormality Level 3,Reversibile Defect,Normal,50's
+56,Male,Asymptomatic,132,184,Normal Blood Sugar Level,Left Ventricular Hypertropthy,105,Yes,2.1,Flat,Abnormality Level 1,Fixed Defect,Heart Disease,50's
+43,Male,Non-Anginal Pain,130,315,Normal Blood Sugar Level,Normal ,162,No,1.9,Upsloping,Abnormality Level 1,Normal Hemoglobin,Normal,40's
+53,Male,Non-Anginal Pain,130,246,Diabetes,Left Ventricular Hypertropthy,173,No,0.0,Upsloping,Abnormality Level 3,Normal Hemoglobin,Normal,50's
+48,Male,Asymptomatic,124,274,Normal Blood Sugar Level,Left Ventricular Hypertropthy,166,No,0.5,Flat,Normal Coronary Arteries,Reversibile Defect,Heart Disease,40's
+56,Female,Asymptomatic,134,409,Normal Blood Sugar Level,Left Ventricular Hypertropthy,150,Yes,1.9,Flat,Abnormality Level 2,Reversibile Defect,Heart Disease,50's
+42,Male,Typical Angina,148,244,Normal Blood Sugar Level,Left Ventricular Hypertropthy,178,No,0.8,Upsloping,Abnormality Level 2,Normal Hemoglobin,Normal,40's
+59,Male,Typical Angina,178,270,Normal Blood Sugar Level,Left Ventricular Hypertropthy,145,No,4.2,Downslopping,Normal Coronary Arteries,Reversibile Defect,Normal,50's
+60,Female,Asymptomatic,158,305,Normal Blood Sugar Level,Left Ventricular Hypertropthy,161,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Heart Disease,60's
+63,Female,Atypical Angina,140,195,Normal Blood Sugar Level,Normal ,179,No,0.0,Upsloping,Abnormality Level 2,Normal Hemoglobin,Normal,60's
+42,Male,Non-Anginal Pain,120,240,Diabetes,Normal ,194,No,0.8,Downslopping,Normal Coronary Arteries,Reversibile Defect,Normal,40's
+66,Male,Atypical Angina,160,246,Normal Blood Sugar Level,Normal ,120,Yes,0.0,Flat,Abnormality Level 3,Fixed Defect,Heart Disease,60's
+54,Male,Atypical Angina,192,283,Normal Blood Sugar Level,Left Ventricular Hypertropthy,195,No,0.0,Upsloping,Abnormality Level 1,Reversibile Defect,Heart Disease,50's
+69,Male,Non-Anginal Pain,140,254,Normal Blood Sugar Level,Left Ventricular Hypertropthy,146,No,2.0,Flat,Abnormality Level 3,Reversibile Defect,Heart Disease,60's
+50,Male,Non-Anginal Pain,129,196,Normal Blood Sugar Level,Normal ,163,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,50's
+51,Male,Asymptomatic,140,298,Normal Blood Sugar Level,Normal ,122,Yes,4.2,Flat,Abnormality Level 3,Reversibile Defect,Heart Disease,50's
+43,Male,Asymptomatic,132,247,Diabetes,Left Ventricular Hypertropthy,143,Yes,0.1,Flat,Normal Coronary Arteries,Reversibile Defect,Heart Disease,40's
+62,Female,Asymptomatic,138,294,Diabetes,Normal ,106,No,1.9,Flat,Abnormality Level 3,Normal Hemoglobin,Heart Disease,60's
+68,Female,Non-Anginal Pain,120,211,Normal Blood Sugar Level,Left Ventricular Hypertropthy,115,No,1.5,Flat,Normal Coronary Arteries,Normal Hemoglobin,Normal,60's
+67,Male,Asymptomatic,100,299,Normal Blood Sugar Level,Left Ventricular Hypertropthy,125,Yes,0.9,Flat,Abnormality Level 2,Normal Hemoglobin,Heart Disease,60's
+69,Male,Typical Angina,160,234,Diabetes,Left Ventricular Hypertropthy,131,No,0.1,Flat,Abnormality Level 1,Normal Hemoglobin,Normal,60's
+45,Female,Asymptomatic,138,236,Normal Blood Sugar Level,Left Ventricular Hypertropthy,152,Yes,0.2,Flat,Normal Coronary Arteries,Normal Hemoglobin,Normal,40's
+50,Female,Atypical Angina,120,244,Normal Blood Sugar Level,Normal ,162,No,1.1,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,50's
+59,Male,Typical Angina,160,273,Normal Blood Sugar Level,Left Ventricular Hypertropthy,125,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Heart Disease,50's
+50,Female,Asymptomatic,110,254,Normal Blood Sugar Level,Left Ventricular Hypertropthy,159,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,50's
+64,Female,Asymptomatic,180,325,Normal Blood Sugar Level,Normal ,154,Yes,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,60's
+57,Male,Non-Anginal Pain,150,126,Diabetes,Normal ,173,No,0.2,Upsloping,Abnormality Level 1,Reversibile Defect,Normal,50's
+64,Female,Non-Anginal Pain,140,313,Normal Blood Sugar Level,Normal ,133,No,0.2,Upsloping,Normal Coronary Arteries,Reversibile Defect,Normal,60's
+43,Male,Asymptomatic,110,211,Normal Blood Sugar Level,Normal ,161,No,0.0,Upsloping,Normal Coronary Arteries,Reversibile Defect,Normal,40's
+45,Male,Asymptomatic,142,309,Normal Blood Sugar Level,Left Ventricular Hypertropthy,147,Yes,0.0,Flat,Abnormality Level 3,Reversibile Defect,Heart Disease,40's
+58,Male,Asymptomatic,128,259,Normal Blood Sugar Level,Left Ventricular Hypertropthy,130,Yes,3.0,Flat,Abnormality Level 2,Reversibile Defect,Heart Disease,50's
+50,Male,Asymptomatic,144,200,Normal Blood Sugar Level,Left Ventricular Hypertropthy,126,Yes,0.9,Flat,Normal Coronary Arteries,Reversibile Defect,Heart Disease,50's
+55,Male,Atypical Angina,130,262,Normal Blood Sugar Level,Normal ,155,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,50's
+62,Female,Asymptomatic,150,244,Normal Blood Sugar Level,Normal ,154,Yes,1.4,Flat,Normal Coronary Arteries,Normal Hemoglobin,Heart Disease,60's
+37,Female,Non-Anginal Pain,120,215,Normal Blood Sugar Level,Normal ,170,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,30's
+38,Male,Typical Angina,120,231,Normal Blood Sugar Level,Normal ,182,Yes,3.8,Flat,Normal Coronary Arteries,Reversibile Defect,Heart Disease,30's
+41,Male,Non-Anginal Pain,130,214,Normal Blood Sugar Level,Left Ventricular Hypertropthy,168,No,2.0,Flat,Normal Coronary Arteries,Normal Hemoglobin,Normal,40's
+66,Female,Asymptomatic,178,228,Diabetes,Normal ,165,Yes,1.0,Flat,Abnormality Level 2,Reversibile Defect,Heart Disease,60's
+52,Male,Asymptomatic,112,230,Normal Blood Sugar Level,Normal ,160,No,0.0,Upsloping,Abnormality Level 1,Normal Hemoglobin,Heart Disease,50's
+56,Male,Typical Angina,120,193,Normal Blood Sugar Level,Left Ventricular Hypertropthy,162,No,1.9,Flat,Normal Coronary Arteries,Reversibile Defect,Normal,50's
+46,Female,Atypical Angina,105,204,Normal Blood Sugar Level,Normal ,172,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,40's
+46,Female,Asymptomatic,138,243,Normal Blood Sugar Level,Left Ventricular Hypertropthy,152,Yes,0.0,Flat,Normal Coronary Arteries,Normal Hemoglobin,Normal,40's
+64,Female,Asymptomatic,130,303,Normal Blood Sugar Level,Normal ,122,No,2.0,Flat,Abnormality Level 2,Normal Hemoglobin,Normal,60's
+59,Male,Asymptomatic,138,271,Normal Blood Sugar Level,Left Ventricular Hypertropthy,182,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,50's
+41,Female,Non-Anginal Pain,112,268,Normal Blood Sugar Level,Left Ventricular Hypertropthy,172,Yes,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,40's
+54,Female,Non-Anginal Pain,108,267,Normal Blood Sugar Level,Left Ventricular Hypertropthy,167,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,50's
+39,Female,Non-Anginal Pain,94,199,Normal Blood Sugar Level,Normal ,179,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,30's
+53,Male,Asymptomatic,123,282,Normal Blood Sugar Level,Normal ,95,Yes,2.0,Flat,Abnormality Level 2,Reversibile Defect,Heart Disease,50's
+63,Female,Asymptomatic,108,269,Normal Blood Sugar Level,Normal ,169,Yes,1.8,Flat,Abnormality Level 2,Normal Hemoglobin,Heart Disease,60's
+34,Female,Atypical Angina,118,210,Normal Blood Sugar Level,Normal ,192,No,0.7,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,30's
+47,Male,Asymptomatic,112,204,Normal Blood Sugar Level,Normal ,143,No,0.1,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,40's
+67,Female,Non-Anginal Pain,152,277,Normal Blood Sugar Level,Normal ,172,No,0.0,Upsloping,Abnormality Level 1,Normal Hemoglobin,Normal,60's
+54,Male,Asymptomatic,110,206,Normal Blood Sugar Level,Left Ventricular Hypertropthy,108,Yes,0.0,Flat,Abnormality Level 1,Normal Hemoglobin,Heart Disease,50's
+66,Male,Asymptomatic,112,212,Normal Blood Sugar Level,Left Ventricular Hypertropthy,132,Yes,0.1,Upsloping,Abnormality Level 1,Normal Hemoglobin,Heart Disease,60's
+52,Female,Non-Anginal Pain,136,196,Normal Blood Sugar Level,Left Ventricular Hypertropthy,169,No,0.1,Flat,Normal Coronary Arteries,Normal Hemoglobin,Normal,50's
+55,Female,Asymptomatic,180,327,Normal Blood Sugar Level,Abnormal,117,Yes,3.4,Flat,Normal Coronary Arteries,Normal Hemoglobin,Heart Disease,50's
+49,Male,Non-Anginal Pain,118,149,Normal Blood Sugar Level,Left Ventricular Hypertropthy,126,No,0.8,Upsloping,Abnormality Level 3,Normal Hemoglobin,Heart Disease,40's
+74,Female,Atypical Angina,120,269,Normal Blood Sugar Level,Left Ventricular Hypertropthy,121,Yes,0.2,Upsloping,Abnormality Level 1,Normal Hemoglobin,Normal,70's
+54,Female,Non-Anginal Pain,160,201,Normal Blood Sugar Level,Normal ,163,No,0.0,Upsloping,Abnormality Level 1,Normal Hemoglobin,Normal,50's
+54,Male,Asymptomatic,122,286,Normal Blood Sugar Level,Left Ventricular Hypertropthy,116,Yes,3.2,Flat,Abnormality Level 2,Normal Hemoglobin,Heart Disease,50's
+56,Male,Asymptomatic,130,283,Diabetes,Left Ventricular Hypertropthy,103,Yes,1.6,Downslopping,Normal Coronary Arteries,Reversibile Defect,Heart Disease,50's
+46,Male,Asymptomatic,120,249,Normal Blood Sugar Level,Left Ventricular Hypertropthy,144,No,0.8,Upsloping,Normal Coronary Arteries,Reversibile Defect,Heart Disease,40's
+49,Female,Atypical Angina,134,271,Normal Blood Sugar Level,Normal ,162,No,0.0,Flat,Normal Coronary Arteries,Normal Hemoglobin,Normal,40's
+42,Male,Atypical Angina,120,295,Normal Blood Sugar Level,Normal ,162,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,40's
+41,Male,Atypical Angina,110,235,Normal Blood Sugar Level,Normal ,153,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,40's
+41,Female,Atypical Angina,126,306,Normal Blood Sugar Level,Normal ,163,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,40's
+49,Female,Asymptomatic,130,269,Normal Blood Sugar Level,Normal ,163,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,40's
+61,Male,Typical Angina,134,234,Normal Blood Sugar Level,Normal ,145,No,2.6,Flat,Abnormality Level 2,Normal Hemoglobin,Heart Disease,60's
+60,Female,Non-Anginal Pain,120,178,Diabetes,Normal ,96,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,60's
+67,Male,Asymptomatic,120,237,Normal Blood Sugar Level,Normal ,71,No,1.0,Flat,Normal Coronary Arteries,Normal Hemoglobin,Heart Disease,60's
+58,Male,Asymptomatic,100,234,Normal Blood Sugar Level,Normal ,156,No,0.1,Upsloping,Abnormality Level 1,Reversibile Defect,Heart Disease,50's
+47,Male,Asymptomatic,110,275,Normal Blood Sugar Level,Left Ventricular Hypertropthy,118,Yes,1.0,Flat,Abnormality Level 1,Normal Hemoglobin,Heart Disease,40's
+52,Male,Asymptomatic,125,212,Normal Blood Sugar Level,Normal ,168,No,1.0,Upsloping,Abnormality Level 2,Reversibile Defect,Heart Disease,50's
+62,Male,Atypical Angina,128,208,Diabetes,Left Ventricular Hypertropthy,140,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,60's
+57,Male,Asymptomatic,110,201,Normal Blood Sugar Level,Normal ,126,Yes,1.5,Flat,Normal Coronary Arteries,Fixed Defect,Normal,50's
+58,Male,Asymptomatic,146,218,Normal Blood Sugar Level,Normal ,105,No,2.0,Flat,Abnormality Level 1,Reversibile Defect,Heart Disease,50's
+64,Male,Asymptomatic,128,263,Normal Blood Sugar Level,Normal ,105,Yes,0.2,Flat,Abnormality Level 1,Reversibile Defect,Normal,60's
+51,Female,Non-Anginal Pain,120,295,Normal Blood Sugar Level,Left Ventricular Hypertropthy,157,No,0.6,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,50's
+43,Male,Asymptomatic,115,303,Normal Blood Sugar Level,Normal ,181,No,1.2,Flat,Normal Coronary Arteries,Normal Hemoglobin,Normal,40's
+42,Female,Non-Anginal Pain,120,209,Normal Blood Sugar Level,Normal ,173,No,0.0,Flat,Normal Coronary Arteries,Normal Hemoglobin,Normal,40's
+67,Female,Asymptomatic,106,223,Normal Blood Sugar Level,Normal ,142,No,0.3,Upsloping,Abnormality Level 2,Normal Hemoglobin,Normal,60's
+76,Female,Non-Anginal Pain,140,197,Normal Blood Sugar Level,Abnormal,116,No,1.1,Flat,Normal Coronary Arteries,Normal Hemoglobin,Normal,70's
+70,Male,Atypical Angina,156,245,Normal Blood Sugar Level,Left Ventricular Hypertropthy,143,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,70's
+57,Male,Atypical Angina,124,261,Normal Blood Sugar Level,Normal ,141,No,0.3,Upsloping,Normal Coronary Arteries,Reversibile Defect,Heart Disease,50's
+44,Female,Non-Anginal Pain,118,242,Normal Blood Sugar Level,Normal ,149,No,0.3,Flat,Abnormality Level 1,Normal Hemoglobin,Normal,40's
+58,Female,Atypical Angina,136,319,Diabetes,Left Ventricular Hypertropthy,152,No,0.0,Upsloping,Abnormality Level 2,Normal Hemoglobin,Heart Disease,50's
+60,Female,Typical Angina,150,240,Normal Blood Sugar Level,Normal ,171,No,0.9,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,60's
+44,Male,Non-Anginal Pain,120,226,Normal Blood Sugar Level,Normal ,169,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,40's
+61,Male,Asymptomatic,138,166,Normal Blood Sugar Level,Left Ventricular Hypertropthy,125,Yes,3.6,Flat,Abnormality Level 1,Normal Hemoglobin,Heart Disease,60's
+42,Male,Asymptomatic,136,315,Normal Blood Sugar Level,Normal ,125,Yes,1.8,Flat,Normal Coronary Arteries,Fixed Defect,Heart Disease,40's
+52,Male,Asymptomatic,128,204,Diabetes,Normal ,156,Yes,1.0,Flat,Normal Coronary Arteries,Normal Hemoglobin,Heart Disease,50's
+59,Male,Non-Anginal Pain,126,218,Diabetes,Normal ,134,No,2.2,Flat,Abnormality Level 1,Fixed Defect,Heart Disease,50's
+40,Male,Asymptomatic,152,223,Normal Blood Sugar Level,Normal ,181,No,0.0,Upsloping,Normal Coronary Arteries,Reversibile Defect,Heart Disease,40's
+42,Male,Non-Anginal Pain,130,180,Normal Blood Sugar Level,Normal ,150,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,40's
+61,Male,Asymptomatic,140,207,Normal Blood Sugar Level,Left Ventricular Hypertropthy,138,Yes,1.9,Upsloping,Abnormality Level 1,Reversibile Defect,Heart Disease,60's
+66,Male,Asymptomatic,160,228,Normal Blood Sugar Level,Left Ventricular Hypertropthy,138,No,2.3,Upsloping,Normal Coronary Arteries,Fixed Defect,Normal,60's
+46,Male,Asymptomatic,140,311,Normal Blood Sugar Level,Normal ,120,Yes,1.8,Flat,Abnormality Level 2,Reversibile Defect,Heart Disease,40's
+71,Female,Asymptomatic,112,149,Normal Blood Sugar Level,Normal ,125,No,1.6,Flat,Normal Coronary Arteries,Normal Hemoglobin,Normal,70's
+59,Male,Typical Angina,134,204,Normal Blood Sugar Level,Normal ,162,No,0.8,Upsloping,Abnormality Level 2,Normal Hemoglobin,Heart Disease,50's
+64,Male,Typical Angina,170,227,Normal Blood Sugar Level,Left Ventricular Hypertropthy,155,No,0.6,Flat,Normal Coronary Arteries,Reversibile Defect,Normal,60's
+66,Female,Non-Anginal Pain,146,278,Normal Blood Sugar Level,Left Ventricular Hypertropthy,152,No,0.0,Flat,Abnormality Level 1,Normal Hemoglobin,Normal,60's
+39,Female,Non-Anginal Pain,138,220,Normal Blood Sugar Level,Normal ,152,No,0.0,Flat,Normal Coronary Arteries,Normal Hemoglobin,Normal,30's
+57,Male,Atypical Angina,154,232,Normal Blood Sugar Level,Left Ventricular Hypertropthy,164,No,0.0,Upsloping,Abnormality Level 1,Normal Hemoglobin,Heart Disease,50's
+58,Female,Asymptomatic,130,197,Normal Blood Sugar Level,Normal ,131,No,0.6,Flat,Normal Coronary Arteries,Normal Hemoglobin,Normal,50's
+57,Male,Asymptomatic,110,335,Normal Blood Sugar Level,Normal ,143,Yes,3.0,Flat,Abnormality Level 1,Reversibile Defect,Heart Disease,50's
+47,Male,Non-Anginal Pain,130,253,Normal Blood Sugar Level,Normal ,179,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,40's
+55,Female,Asymptomatic,128,205,Normal Blood Sugar Level,Abnormal,130,Yes,2.0,Flat,Abnormality Level 1,Reversibile Defect,Heart Disease,50's
+35,Male,Atypical Angina,122,192,Normal Blood Sugar Level,Normal ,174,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,30's
+61,Male,Asymptomatic,148,203,Normal Blood Sugar Level,Normal ,161,No,0.0,Upsloping,Abnormality Level 1,Reversibile Defect,Heart Disease,60's
+58,Male,Asymptomatic,114,318,Normal Blood Sugar Level,Abnormal,140,No,4.4,Downslopping,Abnormality Level 3,Fixed Defect,Heart Disease,50's
+58,Female,Asymptomatic,170,225,Diabetes,Left Ventricular Hypertropthy,146,Yes,2.8,Flat,Abnormality Level 2,Fixed Defect,Heart Disease,50's
+58,Male,Atypical Angina,125,220,Normal Blood Sugar Level,Normal ,144,No,0.4,Flat,Normal Coronary Arteries,Reversibile Defect,Normal,50's
+56,Male,Atypical Angina,130,221,Normal Blood Sugar Level,Left Ventricular Hypertropthy,163,No,0.0,Upsloping,Normal Coronary Arteries,Reversibile Defect,Normal,50's
+56,Male,Atypical Angina,120,240,Normal Blood Sugar Level,Normal ,169,No,0.0,Downslopping,Normal Coronary Arteries,Normal Hemoglobin,Normal,50's
+67,Male,Non-Anginal Pain,152,212,Normal Blood Sugar Level,Left Ventricular Hypertropthy,150,No,0.8,Flat,Normal Coronary Arteries,Reversibile Defect,Heart Disease,60's
+55,Female,Atypical Angina,132,342,Normal Blood Sugar Level,Normal ,166,No,1.2,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,50's
+44,Male,Asymptomatic,120,169,Normal Blood Sugar Level,Normal ,144,Yes,2.8,Downslopping,Normal Coronary Arteries,Fixed Defect,Heart Disease,40's
+63,Male,Asymptomatic,140,187,Normal Blood Sugar Level,Left Ventricular Hypertropthy,144,Yes,4.0,Upsloping,Abnormality Level 2,Reversibile Defect,Heart Disease,60's
+63,Female,Asymptomatic,124,197,Normal Blood Sugar Level,Normal ,136,Yes,0.0,Flat,Normal Coronary Arteries,Normal Hemoglobin,Heart Disease,60's
+41,Male,Atypical Angina,120,157,Normal Blood Sugar Level,Normal ,182,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,40's
+59,Male,Asymptomatic,164,176,Diabetes,Left Ventricular Hypertropthy,90,No,1.0,Flat,Abnormality Level 2,Fixed Defect,Heart Disease,50's
+57,Female,Asymptomatic,140,241,Normal Blood Sugar Level,Normal ,123,Yes,0.2,Flat,Normal Coronary Arteries,Reversibile Defect,Heart Disease,50's
+45,Male,Typical Angina,110,264,Normal Blood Sugar Level,Normal ,132,No,1.2,Flat,Normal Coronary Arteries,Reversibile Defect,Heart Disease,40's
+68,Male,Asymptomatic,144,193,Diabetes,Normal ,141,No,3.4,Flat,Abnormality Level 2,Reversibile Defect,Heart Disease,60's
+57,Male,Asymptomatic,130,131,Normal Blood Sugar Level,Normal ,115,Yes,1.2,Flat,Abnormality Level 1,Reversibile Defect,Heart Disease,50's
+57,Female,Atypical Angina,130,236,Normal Blood Sugar Level,Left Ventricular Hypertropthy,174,No,0.0,Flat,Abnormality Level 1,Normal Hemoglobin,Heart Disease,50's
+38,Male,Non-Anginal Pain,138,175,Normal Blood Sugar Level,Normal ,173,No,0.0,Upsloping,Normal Coronary Arteries,Normal Hemoglobin,Normal,30's
